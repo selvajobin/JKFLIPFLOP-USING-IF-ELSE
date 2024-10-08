@@ -87,4 +87,5 @@ else
 ![Screenshot 2024-10-07 113042](https://github.com/user-attachments/assets/fc76eb1c-edc7-4cd0-914e-a4edb024d881)
 
 **RESULTS**
+
 To implement  JK flipflop using verilog and validating their functionality using their functional tables has been successfully compeleted.
