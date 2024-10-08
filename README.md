@@ -1,5 +1,7 @@
 # JKFLIPFLOP-USING-IF-ELSE
+NAME:SELVA JOBIN S
 
+REG NO:212223220102
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
