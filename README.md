@@ -2,6 +2,7 @@
 NAME:SELVA JOBIN S
 
 REG NO:212223220102
+
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
@@ -40,8 +41,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:JYESVANTHE V
-RegisterNumber:212223110018
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
 ```
 module JKflipflop(q, qb,j,k,clock,reset);
